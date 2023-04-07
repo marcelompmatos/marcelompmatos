@@ -12,8 +12,5 @@ MultiCloud com DevOps
 
 [ASP.NET](https://dotnet.microsoft.com/pt-br/apps/aspnet)
 
-<p align="left">
-<a href="https://www.python.org](https://dotnet.microsoft.com/pt-br/apps/aspnet)" target="_blank" rel="noreferrer">
- </a>
   
  
