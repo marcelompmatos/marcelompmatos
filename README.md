@@ -8,6 +8,7 @@
 
 ## 🛠 Estou aprendendo
 MultiCloud com DevOps
+-Terraform 👋
 
 
 [ASP.NET](https://dotnet.microsoft.com/pt-br/apps/aspnet)
