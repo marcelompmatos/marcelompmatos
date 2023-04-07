@@ -1,7 +1,8 @@
 ### I'm Marcelo! 👋
 
-:computer: I'm Front-End Developer!
+:computer: I'm Back-End Developer!
 
+:house_with_garden: I’m from Brazil.
 
 <!--
 **marcelompmatos/marcelompmatos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
