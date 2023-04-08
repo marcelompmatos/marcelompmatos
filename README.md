@@ -55,20 +55,14 @@
  
 </p>
 
-
-  
-
-  
+ 
 
 
-  
-
-
-</p>
 
 
 ## 🛠 Estou aprendendo
-MultiCloud com DevOps
+⚡ MultiCloud com DevOps 
+
 -Terraform 👋
 
 
