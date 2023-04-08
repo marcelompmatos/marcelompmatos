@@ -62,8 +62,8 @@
 
 ## 🛠 Estou aprendendo
 ⚡ MultiCloud com DevOps 
-⋅⋅* Unordered sub-list.
-⋅⋅* Terraform 👋
+
+ 1. Terraform 👋
 
 
 [ASP.NET](https://dotnet.microsoft.com/pt-br/apps/aspnet)
